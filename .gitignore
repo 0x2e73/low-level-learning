@@ -1,0 +1,31 @@
+# Compiled files
+*.o
+*.out
+*.exe
+*.so
+*.dylib
+a.out
+
+# CUDA compiled
+*.cubin
+*.fatbin
+*.ptx
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build directories
+build/
+bin/
+obj/
+
+# Notes temporaires
+scratch.md
+temp/
